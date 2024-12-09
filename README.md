@@ -1,7 +1,8 @@
 # Age Calculator Desktop Application
 
 A modern and user-friendly desktop application built with Python and Tkinter that calculates exact age from a given birth date.
-![Screenshot 2024-12-09_163601]([https://github.com/Bishwaprotapi/Age_Calculator/blob/main/2024-12-09_163601.png])
+
+![Screenshot](https://github.com/Bishwaprotapi/Age_Calculator/blob/main/2024-12-09_163601.png)
 
 ## ✨ Features
 
@@ -17,9 +18,9 @@ A modern and user-friendly desktop application built with Python and Tkinter tha
 ## 🚀 Installation
 
 ### Method 1: Using Executable (Windows)
-1. Download the latest release from the releases section
-2. Run the `AgeCalculator.exe` file
-3. No additional installation required
+1. Download the latest release from the releases section.
+2. Run the `AgeCalculator.exe` file.
+3. No additional installation required.
 
 ### Method 2: From Source
-1. Clone the repository
+1. Clone the repository:
