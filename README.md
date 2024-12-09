@@ -2,17 +2,6 @@
 
 A modern and user-friendly desktop application built with Python and Tkinter that calculates exact age from a given birth date.
 
-## 📸 Screenshots
-
-### Main Interface
-![Main Interface](screenshots/2024-12-09_163601.png)
-
-### Age Calculation Result
-![Result Screen](screenshots/result.png)
-
-### Error Handling
-![Error Message](screenshots/error.png)
-
 ## ✨ Features
 
 - 🎯 Calculate exact age in years, months, and days
