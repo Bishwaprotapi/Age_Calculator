@@ -5,7 +5,7 @@ A modern and user-friendly desktop application built with Python and Tkinter tha
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](screenshots/main.png)
+![Main Interface](screenshots/2024-12-09_163601.png)
 
 ### Age Calculation Result
 ![Result Screen](screenshots/result.png)
