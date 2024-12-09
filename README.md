@@ -2,7 +2,7 @@
 
 A modern and user-friendly desktop application built with Python and Tkinter that calculates exact age from a given birth date.
 
-![Age Calculator Screenshot](screenshots/main_screen.png)
+![Age Calculator Screenshot](screenshots/2024-12-09_163601.png)
 
 ## Features
 
